@@ -1,6 +1,6 @@
-# implementation of crypyography concept using python
+# Implementation of crypyography concept using python
 
-#class for CrtpyoMachine for encoding and decoding purpose
+# Class for CrtpyoMachine for encoding and decoding purpose
 class CryptoMachine():
 
     def __init__(self):
