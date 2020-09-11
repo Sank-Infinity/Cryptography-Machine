@@ -1,3 +1,7 @@
+# Cryptography
+
+As we know cryptograpy is emergnet technology or concept in cyber security domain. In simple words cryptography is process in which we convert simple ordinary plain text into unintelligible text and vice-versa. In order to get expose to this new technology I did this small attempt. I hope you people also learn and enjoy.
+
 # Cryptography-Machine
 
 * The reason behind creating this python program to accure basic idea of cryptograpy.
